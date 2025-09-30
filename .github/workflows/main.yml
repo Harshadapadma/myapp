@@ -20,4 +20,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: chimps/myapp:Harshadapadma
+          tags: chimps/myapp:23f3004431
